@@ -1,0 +1,374 @@
+@media screen and (max-width: 2560px){
+    .snacks {
+        padding-top: 56px;
+        padding-bottom: 31px;
+    }
+
+    .snacks-container {
+        margin: 0 auto;
+        max-width: 962px;
+    }
+
+    .snacks__header {
+        font-size: 22px;
+        line-height: 34px;
+        color: #1D1D1D;
+        margin-bottom: 32px;
+        font-weight: 400;
+    }
+
+    .snacks-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .snacks-card {
+        display: flex;
+        justify-content: space-between;
+        width: 470px;
+        padding-left: 16px;
+        border: 1px solid rgba(117, 117, 117, 0.2);
+        border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+        margin-bottom: 49px;
+    }
+
+    .snacks-card-description-text__header {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1D1D1D;
+        margin-top: 16px;
+    }
+
+    .snacks-card-description-text__constituents {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #626262;
+        margin-top: 4px;
+    }
+
+    .snacks-card-description__price {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 21px;
+        color: #1D1D1D;
+        margin-top: 83px;
+    }
+
+    #snacks-card-description__price {
+        margin-top: 58px;
+    }
+}
+
+@media screen and (max-width: 768px) and (min-width: 426px){
+    .snacks {
+        padding-top: 56px;
+        padding-bottom: 31px;
+    }
+
+    .snacks-container {
+        margin: 0 auto;
+        max-width: 752px;
+    }
+
+    .snacks__header {
+        font-size: 22px;
+        line-height: 34px;
+        color: #1D1D1D;
+        margin-bottom: 32px;
+        font-weight: 400;
+    }
+
+    .snacks-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .snacks-card {
+        display: flex;
+        justify-content: space-between;
+        width: 752px;
+        padding-left: 16px;
+        border: 1px solid rgba(117, 117, 117, 0.2);
+        border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+        margin-bottom: 49px;
+    }
+
+    .snacks-card-description-text__header {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1D1D1D;
+        margin-top: 16px;
+    }
+
+    .snacks-card-description-text__constituents {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #626262;
+        margin-top: 4px;
+    }
+
+    .snacks-card-description__price {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 21px;
+        color: #1D1D1D;
+        margin-top: 83px;
+    }
+
+    #snacks-card-description__price {
+        margin-top: 58px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .snacks {
+        padding-top: 56px;
+        padding-bottom: 40px;
+    }
+
+    .snacks-container {
+        margin: 0 auto;
+        max-width: 400px;
+    }
+
+    .snacks__header {
+        font-size: 22px;
+        line-height: 34px;
+        color: #1D1D1D;
+        margin-bottom: 56px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .snacks-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .snacks-card {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 0px;
+        max-width: 400px;
+        border: 1px solid rgba(117, 117, 117, 0.2);
+        border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+        margin-bottom: 16px;
+    }
+
+    .snacks-card__image {
+        max-width: 102px;
+        max-height: 102px;
+    }
+
+    .snacks-card-description-text__header {
+        font-size: 14px;
+        margin-top: 0px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1D1D1D;
+    }
+
+    #snacks-card-description-text__header {
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .snacks-card-description-text__constituents {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #626262;
+        margin-top: 4px;
+    }
+
+    .snacks-card-description__price {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 21px;
+        color: #1D1D1D;
+        margin-top: 41px;
+    }
+
+    #snacks-card-description__price {
+        margin-top: 16px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .snacks {
+        padding-top: 56px;
+        padding-bottom: 40px;
+    }
+
+    .snacks-container {
+        margin: 0 auto;
+        max-width: 340px;
+    }
+
+    .snacks__header {
+        font-size: 22px;
+        line-height: 34px;
+        color: #1D1D1D;
+        margin-bottom: 56px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .snacks-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .snacks-card {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 0px;
+        max-width: 340px;
+        border: 1px solid rgba(117, 117, 117, 0.2);
+        border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+        margin-bottom: 16px;
+    }
+
+    .snacks-card__image {
+        max-width: 102px;
+        max-height: 102px;
+    }
+
+    .snacks-card-description-text__header {
+        font-size: 14px;
+        margin-top: 0px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1D1D1D;
+    }
+
+    #snacks-card-description-text__header {
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .snacks-card-description-text__constituents {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #626262;
+        margin-top: 4px;
+    }
+
+    .snacks-card-description__price {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 21px;
+        color: #1D1D1D;
+        margin-top: 41px;
+    }
+
+    #snacks-card-description__price {
+        margin-top: 16px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .snacks {
+        padding-top: 56px;
+        padding-bottom: 40px;
+    }
+
+    .snacks-container {
+        margin: 0 auto;
+        max-width: 308px;
+    }
+
+    .snacks__header {
+        font-size: 22px;
+        line-height: 34px;
+        color: #1D1D1D;
+        margin-bottom: 56px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .snacks-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .snacks-card {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 0px;
+        max-width: 308px;
+        border: 1px solid rgba(117, 117, 117, 0.2);
+        border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+        margin-bottom: 16px;
+    }
+
+    .snacks-card__image {
+        max-width: 102px;
+        max-height: 102px;
+    }
+
+    .snacks-card-description-text__header {
+        font-size: 14px;
+        margin-top: 0px;
+        font-weight: 400;
+        max-width: 188px;
+        line-height: 24px;
+        color: #1D1D1D;
+    }
+
+    #snacks-card-description-text__header {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .snacks-card-description-text__constituents {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #626262;
+        margin-top: 4px;
+    }
+
+    .snacks-card-description__price {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 21px;
+        color: #1D1D1D;
+        margin-top: 41px;
+    }
+
+    #snacks-card-description__price {
+        margin-top: 16px;
+    }
+}

@@ -1,0 +1,129 @@
+@media screen and (max-width: 2560px){
+    .search {
+        padding-top: 104px;
+    }
+
+    .search-container {
+        margin: 0 auto;
+        max-width: 962px;
+    }
+
+    .search__input[type="text"] {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-top: 24px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        line-height: 24px;
+        color: #626262;
+        border-bottom: 2px solid #979797;
+        outline: none;
+    }
+}
+
+@media screen and (max-width: 768px) and (min-width: 426px){
+    .search {
+        padding-top: 104px;
+    }
+
+    .search-container {
+        margin: 0 auto;
+        max-width: 752px;
+    }
+
+    .search__input[type="text"] {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-top: 24px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        line-height: 24px;
+        color: #626262;
+        border-bottom: 2px solid #979797;
+        outline: none;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .search {
+        padding-top: 104px;
+    }
+
+    .search-container {
+        margin: 0 auto;
+        max-width: 400px;
+    }
+
+    .search__input[type="text"] {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-top: 24px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        line-height: 24px;
+        color: #626262;
+        border-bottom: 2px solid #979797;
+        outline: none;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .search {
+        padding-top: 104px;
+    }
+
+    .search-container {
+        margin: 0 auto;
+        max-width: 340px;
+    }
+
+    .search__input[type="text"] {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-top: 24px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        line-height: 24px;
+        color: #626262;
+        border-bottom: 2px solid #979797;
+        outline: none;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .search {
+        padding-top: 104px;
+    }
+
+    .search-container {
+        margin: 0 auto;
+        max-width: 308px;
+    }
+
+    .search__input[type="text"] {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-top: 24px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        line-height: 24px;
+        color: #626262;
+        border-bottom: 2px solid #979797;
+        outline: none;
+    }
+}
